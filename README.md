@@ -8,19 +8,6 @@ A comprehensive, end-to-end **data engineering project** that monitors air quali
 
 ---
 
-## 📋 Table of Contents
-
-- [Prerequisites](#-prerequisites)
-- [Quick Start Guide](#-quick-start-guide)
-- [Detailed Setup Instructions](#-detailed-setup-instructions)
-- [How to Run the Project](#-how-to-run-the-project)
-- [Project Structure](#-project-structure)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Troubleshooting](#-troubleshooting)
-
----
-
 ## ✅ Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -343,24 +330,9 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-⭐ **Star this repo if you find it helpful!**
